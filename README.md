@@ -3,7 +3,8 @@
 <!-- [![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1166013268008120340)
+<!-- [![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1166013268008120340) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1166013268008120340)](https://discord.com/users/1166013268008120340)
 ***
 [![Hack Club](https://raw.githubusercontent.com/RadioactivePotato/RadioactivePotato/refs/heads/main/hackclub-red.svg)](https://hackclub.com) [![Hack Club](https://raw.githubusercontent.com/RadioactivePotato/RadioactivePotato/refs/heads/main/hackclub-white.svg)](https://hackclub.com)
 
