@@ -25,7 +25,7 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=krunchierunch&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=krunchiekrunch&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunchiekrunch&theme=cobalt&layout=compact&size_weight=0.5&count_weight=0.5&hide=html" />
