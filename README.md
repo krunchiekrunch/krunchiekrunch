@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <!-- [![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1166013268008120340) -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/1166013268008120340)](https://discord.com/users/1166013268008120340)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1166013268008120340?showDisplayName=true&theme=dark)](https://discord.com/users/1166013268008120340)
 ***
 
 <!-- [![Hack Club](https://raw.githubusercontent.com/krunchiekrunch/krunchiekrunch/refs/heads/main/hackclub-red.svg)](https://hackclub.com) [![Hack Club](https://raw.githubusercontent.com/krunchiekrunch/krunchiekrunch/refs/heads/main/hackclub-white.svg)](https://hackclub.com) -->
